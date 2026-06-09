@@ -1,0 +1,10 @@
+data/
+*.csv
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+models/*.pkl
+models/*.joblib
+mlruns/
